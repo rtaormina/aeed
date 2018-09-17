@@ -1,4 +1,4 @@
-# AutoEncoders for Event Detection (AEED)
+# AutoEncoders for Event Detection (AEED): a Keras-based class for anomaly detection in water sensor networks.
 
 ## Summary
 This repository contains the code used for the following publication: <br/>
@@ -6,7 +6,7 @@ This repository contains the code used for the following publication: <br/>
 
 Although the usage is demonstrated for sensor anomalies engendered by cyber attacks on water distribution systems, the methodology could be applied for any network of sensors monitoring a physical process. AEED work by spotting incongruences in the physical relationships and spatial correlation present the recorded readings.
 
-If you use the package, please make sure to cite the aformentioned paper, which also reports all the necessary details regarding the methodology.
+If you use the package, please make sure to cite the aformentioned paper, which reports all the details on the methodology.
 
 ## Contents
 
